@@ -1,2 +1,6 @@
 hello devcolibry in dev branch
+<<<<<<< HEAD
 change 2 throught dev branch
+=======
+change 1 throught master branch
+>>>>>>> devfile.txt change 1 throught master branch
